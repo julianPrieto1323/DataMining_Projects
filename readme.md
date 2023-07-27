@@ -8,4 +8,4 @@ In this repository you can see every dataMining Projects I have developed during
 :four: Regretion and Cluster <br />
 :five: Final Project <br /><br />
 
-Final Project is a project that we develop to simulate the benefits is Spain helds the 2030 FIFA World Cup 
+Final Project is a project that we develop to simulate the benefits if Spain helds the 2030 FIFA World Cup 
